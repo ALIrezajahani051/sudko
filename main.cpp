@@ -1,4 +1,3 @@
-// C++ program to demonstrate working of malloc()
 #include <iostream>
 #include<stdlib.h>
 using namespace std;
@@ -112,7 +111,6 @@ bool findBestCandidate(int &x,int &y){
         return false;
 
     return true;
-
 
 }
 

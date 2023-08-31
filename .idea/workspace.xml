@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47c5833e-2dff-464d-995e-56e495e0c423" name="Changes" comment="" />
+    <list default="true" id="47c5833e-2dff-464d-995e-56e495e0c423" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +74,22 @@
       <workItem from="1693214711402" duration="31000" />
       <workItem from="1693295327295" duration="18000" />
       <workItem from="1693378939773" duration="2009000" />
-      <workItem from="1693471240218" duration="7885000" />
+      <workItem from="1693471240218" duration="8502000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
